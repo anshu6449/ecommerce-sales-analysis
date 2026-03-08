@@ -1,0 +1,6 @@
+Order_ID,Product,Category,Price,Quantity,City,Customer_Age,Order_Date
+1,Laptop,Electronics,60000,1,Delhi,25,2024-01-10
+2,Phone,Electronics,30000,2,Mumbai,30,2024-02-11
+3,Shoes,Fashion,2000,3,Delhi,22,2024-02-15
+4,Watch,Fashion,5000,1,Bangalore,35,2024-03-10
+5,Laptop,Electronics,60000,1,Mumbai,28,2024-03-15
